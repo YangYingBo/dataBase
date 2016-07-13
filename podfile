@@ -1,0 +1,4 @@
+platform:ios
+target 'myDataBase' do
+pod ‘FMDB’,’~>2.6.0’
+end
